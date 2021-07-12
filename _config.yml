@@ -30,7 +30,7 @@ twitter_username: reymanx
 github_username:  reymanx
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
