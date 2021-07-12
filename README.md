@@ -1,2 +1,2 @@
 # reynaldi-site
-web reynaldi co id
+web reynaldi dot com
